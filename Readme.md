@@ -18,7 +18,7 @@ Welcome to **KineFel**, a revolutionary e-commerce platform integrated with a se
 ## **🔧 Tech Stack**  
 - **Frontend:** React.js  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
+- **Database:** Firebase  
 - **Authentication:** JWT  
 - **Payment Processing:** Custom banking system  
 
