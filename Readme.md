@@ -68,7 +68,7 @@ npm start
 ```
 
 ## **📽️ YouTube Demonstration**  
-Check out the full demo on YouTube: [Watch Here](#) *(https://www.youtube.com/watch?v=ugd9Vu-LcC8)*  
+Check out the full demo on YouTube: [Watch Here](https://www.youtube.com/watch?v=ugd9Vu-LcC8)
 
 ## **📩 Contact & Contributions**  
 We welcome contributions! Feel free to create a pull request or open an issue.  
