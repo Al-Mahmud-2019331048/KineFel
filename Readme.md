@@ -72,3 +72,5 @@ Check out the full demo on YouTube: [Watch Here](https://www.youtube.com/watch?v
 
 ## **📩 Contact & Contributions**  
 We welcome contributions! Feel free to create a pull request or open an issue.  
+
+Presentation: [KineFel](https://drive.google.com/file/d/1HCZr_2zzu0JKXF1MqgRvr5SuU1iC_X2b/view?usp=sharing)
